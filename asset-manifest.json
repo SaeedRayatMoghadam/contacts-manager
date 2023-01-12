@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SaeedRayatMoghadam/contacts-manager/static/css/main.5c47d737.css",
+    "main.js": "/SaeedRayatMoghadam/contacts-manager/static/js/main.4beedffc.js",
+    "static/media/Spinner.gif": "/SaeedRayatMoghadam/contacts-manager/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/notfound.gif": "/SaeedRayatMoghadam/contacts-manager/static/media/notfound.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/SaeedRayatMoghadam/contacts-manager/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/SaeedRayatMoghadam/contacts-manager/index.html",
+    "main.5c47d737.css.map": "/SaeedRayatMoghadam/contacts-manager/static/css/main.5c47d737.css.map",
+    "main.4beedffc.js.map": "/SaeedRayatMoghadam/contacts-manager/static/js/main.4beedffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c47d737.css",
+    "static/js/main.4beedffc.js"
+  ]
+}
